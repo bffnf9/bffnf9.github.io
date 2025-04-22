@@ -5,6 +5,8 @@ body{
   color: red;
   background-color: rgb(65, 97, 73);
   font-family: "comic sans ms";
+  font-weight: bold;
+  font-style: italic;
 }
 p{
   font-family: verdana;
