@@ -12,6 +12,7 @@ body{
   border-left: 3px dotted orange;
   border-right: 3px dotted green;
   text-shadow: 3px 3px 5px, -3px -3px 5px blue;
+  margin: auto;
 }
 p{
   font-family: verdana;
@@ -23,7 +24,4 @@ h3{
 }
 h4{
   color: hsl(162, 96%, 50%)
-}
-h1{
-  margin: auto
 }
